@@ -16,3 +16,4 @@ l;
 <INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');" />
 asasd
 asdasd
+123123
